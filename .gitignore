@@ -1,0 +1,10 @@
+# Build artifacts
+/target/
+*.exe
+
+# Local user configs, backups, and generated launchers
+rules.json
+/backups/
+/launchers/
+*.lnk
+*.bat
